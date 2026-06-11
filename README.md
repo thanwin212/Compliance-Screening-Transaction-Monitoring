@@ -1,4 +1,4 @@
-# Integration Compliance-Screening-&-Transaction-Monitoring-Solution
+# Integration Compliance Screening & Transaction Monitoring Solution
 
 📌 **Project Overview**
 
